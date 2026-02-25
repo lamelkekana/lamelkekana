@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <p><strong>Data Scientist & Problem Solver</strong> with a curious mind, focused on uncovering patterns and building intelligent solutions.</p>
+  <p><strong>Data Engineer/Scientist & Problem Solver</strong> with a curious mind, focused on uncovering patterns and building intelligent solutions.</p>
   <p>📍 Based in <strong>Pretoria, South Africa</strong> | 🌍 Open to opportunities worldwide</p>
 </div>
 
